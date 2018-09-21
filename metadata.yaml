@@ -1,10 +1,13 @@
 _repo: Puhe-kunniaseppeleesta_54844
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Snellman, Walter J.
     gutenberg_agent_id: '48072'
     url: http://www.gutenberg.org/2009/agents/48072
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Demosthenes
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2233
     wikipedia: http://en.wikipedia.org/wiki/Demosthenes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54844#Puhe-kunniaseppeleesta
 gutenberg_issued: '2017-06-04'
 gutenberg_type: Text
 identifiers:
