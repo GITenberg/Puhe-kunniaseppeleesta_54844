@@ -1,0 +1,29 @@
+_repo: Puhe-kunniaseppeleesta_54844
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Snellman, Walter J.
+    gutenberg_agent_id: '48072'
+    url: http://www.gutenberg.org/2009/agents/48072
+creator:
+  author:
+    agent_name: Demosthenes
+    alias: Δημοσθένης
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2233'
+    url: http://www.gutenberg.org/2009/agents/2233
+    wikipedia: http://en.wikipedia.org/wiki/Demosthenes
+description: ''
+gutenberg_issued: '2017-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54844'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Puhe kunniaseppeleestä
+url: http://www.gutenberg.org/ebooks/54844
